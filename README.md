@@ -20,9 +20,11 @@ The program does three jobs:
  2. Count the number of entries based on a given counting field. 
  3. Sort the number of entries and write the largest ten into a separate `.csv` file.
 
+Currently, the program is coded to fit the exact requirements of the challenge, but 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzA1ODU4MCw5MDU5NzAzMDgsMzIyMT
-gwODgsLTgzODQxODQzMSw0NTQ2ODMwMywtMTI0MDA1NDM4MCwt
-MTQ5MDk4MzU3MSwxMjAxODE5MjgsNTg0MDA2MTM4LC0xNTU5Mz
-IxNzU3LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbNDY1MjA4MjkyLC03NTcwNTg1ODAsOTA1OT
+cwMzA4LDMyMjE4MDg4LC04Mzg0MTg0MzEsNDU0NjgzMDMsLTEy
+NDAwNTQzODAsLTE0OTA5ODM1NzEsMTIwMTgxOTI4LDU4NDAwNj
+EzOCwtMTU1OTMyMTc1NywtMTc0MzQ2NDQ2OV19
 -->
