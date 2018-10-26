@@ -4,7 +4,7 @@ This project is design for accomplishing the [Insight Data Challenge](https://gi
 
 # How to Run
 
-
+You can exucute it through **run.sh**.
 
 # Task Analysis
 
@@ -150,6 +150,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0MDA2MTM4LC0xNTU5MzIxNzU3LC0xNz
-QzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbLTE1OTMxMTg0MjQsNTg0MDA2MTM4LC0xNT
+U5MzIxNzU3LC0xNzQzNDY0NDY5XX0=
 -->
