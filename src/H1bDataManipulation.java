@@ -7,10 +7,10 @@ public class H1bDataManipulation {
 	
 	/**
 	 * Reads the csv file, does the counting for occupations and states, and writes the results to the output folder.	
-	 * @param args Unused. They could be utilized should more flexibility is needed.
+	 * @param args Not used. They could be extended should more flexibility is needed.
 	 */
 	public static void main(String[] args){
-//		should you need more flexibility, uncomment these
+//		should you need more flexibility, uncomment these and adjust accordingly
 //		String inputDir = args[0];
 //		String outputDir = args[1];
 //		String outputHeader = args[2];
