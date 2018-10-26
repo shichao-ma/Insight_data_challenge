@@ -10,7 +10,7 @@ You can exucute it through **run.sh**.
 
 The task contains three basic components:
 
- 1. Write a usable *.csv* reader/writer to parse a *.csv* file.
+ 1. Write a usable `.csv` reader/writer to parse a `.csv` file.
  2. Count 
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
@@ -150,6 +150,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTMxMTg0MjQsNTg0MDA2MTM4LC0xNT
-U5MzIxNzU3LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbMTIwMTgxOTI4LDU4NDAwNjEzOCwtMTU1OT
+MyMTc1NywtMTc0MzQ2NDQ2OV19
 -->
