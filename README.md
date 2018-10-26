@@ -1,11 +1,11 @@
 # Insight Data Challenge
 
-This project is design for accomplishing [Insight Data Challenge](https://github.com/InsightDataScience/h1b_statistics), in which I am given a dataset that contains some information on H1B applications and need to write a program that does some data aggregation without using canned solutuions.
+This project is design for accomplishing the [Insight Data Challenge](https://github.com/InsightDataScience/h1b_statistics), in which I am given a dataset that contains some information on H1B applications and need to write a program that does some data aggregation without using canned solutuions.
 
 
 # Task Analysis
 
-The task contain three basic components:
+The task contains three basic components:
 
  1. Write a usable *.csv* reader/writer to parse a *.csv* file.
  2. Count 
@@ -147,5 +147,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2MTE0MTcsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbLTE1NTkzMjE3NTcsLTE3NDM0NjQ0NjldfQ
+==
 -->
