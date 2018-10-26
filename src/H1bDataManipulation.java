@@ -41,7 +41,7 @@ public class H1bDataManipulation {
 		// states
 		outputFile = "./output/top_10_states.txt";
 		outputHeader = "TOP_STATES,NUMBER_CERTIFIED_APPLICATIONS,PERCENTAGE";
-		columnCount = columnName = "EMPLOYER_STATE";
+		columnCount = columnName = "WORKSITE_STATE";
 
 		counted = doCount(dataTable, columnCount, columnName);
 		

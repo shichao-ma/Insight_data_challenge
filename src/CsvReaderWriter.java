@@ -8,6 +8,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.ListIterator;
 /**
  * The CsvReaderWriter class provides some basic functionality to write and read csv files. 
  * In particular, it can read a csv file to an ArrayList<ArrayList<String>>, or
@@ -87,8 +88,21 @@ public class CsvReaderWriter {
     	String line;
     	
         try (BufferedReader br = new BufferedReader(new FileReader(file))) {        	
-            while ((line = br.readLine()) != null) {            	
+            while ((line = br.readLine()) != null) {
             	ArrayList<String> row = new ArrayList<>(Arrays.asList(line.split(separator)));
+            	
+            	// remove quotation marks
+            	ListIterator<String> iterator = row.listIterator();
+            	while (iterator.hasNext()) {
+            	     String string = iterator.next();
+            	     if (string.length() >= 2 && string.charAt(0) == '"' && string.charAt(string.length() - 1) == '"')
+            	     {
+            	    	 iterator.set(string.substring(1, string.length() - 1));
+            	     }
+            	 }
+//            	check to make sure quotation marks are removed
+//            	System.out.println(row);
+            	
                 csvContent.add(row); 
             }
         } catch (IOException e) {
