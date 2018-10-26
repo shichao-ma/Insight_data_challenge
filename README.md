@@ -12,9 +12,15 @@ It will compile the source code and do the data aggregation. Or, alternatively, 
 ## Requirements
 Java 8 and up.
 
+# Features
+
+The program does three jobs:
+
+ 1. Read and parse a `.csv` file. As I am not allowed to use canned solutions,  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyMTgwODgsLTgzODQxODQzMSw0NTQ2OD
-MwMywtMTI0MDA1NDM4MCwtMTQ5MDk4MzU3MSwxMjAxODE5Mjgs
-NTg0MDA2MTM4LC0xNTU5MzIxNzU3LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbMTY4NjcyOTg4MSwzMjIxODA4OCwtODM4ND
+E4NDMxLDQ1NDY4MzAzLC0xMjQwMDU0MzgwLC0xNDkwOTgzNTcx
+LDEyMDE4MTkyOCw1ODQwMDYxMzgsLTE1NTkzMjE3NTcsLTE3ND
+M0NjQ0NjldfQ==
 -->
