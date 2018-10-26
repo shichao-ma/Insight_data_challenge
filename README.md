@@ -10,7 +10,7 @@ $ run.sh
 ```
 It will compile the source code and do the data aggregation. Or, alternatively, you may use the executable jar file ([H1bDataManipulation.jar](https://github.com/skuimsc/Insight_data_challenge/blob/master/H1bDataManipulation.jar "H1bDataManipulation.jar")) that I provided.
 ## Requirements
-Java 8 and up.
+Java 8 and up. You don't need outside libraries to run this.
 
 # Features
 
@@ -20,11 +20,11 @@ The program does three jobs:
  2. Count the number of entries based on a given counting field. 
  3. Sort the number of entries and write the largest ten into a separate `.csv` file.
 
-Currently, the program is coded to fit the exact requirements of the challenge, but 
+Currently, the program is coded to fit the exact requirements of the challenge, but obviously it can be extended should the need arise.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MjA4MjkyLC03NTcwNTg1ODAsOTA1OT
-cwMzA4LDMyMjE4MDg4LC04Mzg0MTg0MzEsNDU0NjgzMDMsLTEy
-NDAwNTQzODAsLTE0OTA5ODM1NzEsMTIwMTgxOTI4LDU4NDAwNj
-EzOCwtMTU1OTMyMTc1NywtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbLTE0NTA4NDkxNzgsLTc1NzA1ODU4MCw5MD
+U5NzAzMDgsMzIyMTgwODgsLTgzODQxODQzMSw0NTQ2ODMwMywt
+MTI0MDA1NDM4MCwtMTQ5MDk4MzU3MSwxMjAxODE5MjgsNTg0MD
+A2MTM4LC0xNTU5MzIxNzU3LC0xNzQzNDY0NDY5XX0=
 -->
