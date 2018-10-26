@@ -2,6 +2,8 @@
 
 This project is design for accomplishing the [Insight Data Challenge](https://github.com/InsightDataScience/h1b_statistics), in which I am given a dataset that contains some information on H1B applications and need to write a program that does some data aggregation without using canned solutuions.
 
+# How to Run
+
 
 
 # Task Analysis
@@ -148,6 +150,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODUwMDksLTE1NTkzMjE3NTcsLTE3ND
-M0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbNTg0MDA2MTM4LC0xNTU5MzIxNzU3LC0xNz
+QzNDY0NDY5XX0=
 -->
