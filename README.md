@@ -4,7 +4,7 @@ This project is design for accomplishing the [Insight Data Challenge](https://gi
 
 # How to Run
 
-You can exucute it through **run.sh**:
+You can exucute it through **[run.sh](https://github.com/skuimsc/Insight_data_challenge/blob/master/run.sh)**:
 ```
 $ run.sh
 ```
@@ -23,9 +23,9 @@ The program does three jobs:
 Currently, the program is coded to fit the exact requirements of the challenge, but obviously it can be extended should the need arise.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3NDg1NzYxLC0xNDUwODQ5MTc4LC03NT
-cwNTg1ODAsOTA1OTcwMzA4LDMyMjE4MDg4LC04Mzg0MTg0MzEs
-NDU0NjgzMDMsLTEyNDAwNTQzODAsLTE0OTA5ODM1NzEsMTIwMT
-gxOTI4LDU4NDAwNjEzOCwtMTU1OTMyMTc1NywtMTc0MzQ2NDQ2
-OV19
+eyJoaXN0b3J5IjpbLTE4NTAxNjIyMjUsMjc3NDg1NzYxLC0xND
+UwODQ5MTc4LC03NTcwNTg1ODAsOTA1OTcwMzA4LDMyMjE4MDg4
+LC04Mzg0MTg0MzEsNDU0NjgzMDMsLTEyNDAwNTQzODAsLTE0OT
+A5ODM1NzEsMTIwMTgxOTI4LDU4NDAwNjEzOCwtMTU1OTMyMTc1
+NywtMTc0MzQ2NDQ2OV19
 -->
