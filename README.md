@@ -4,16 +4,16 @@ This project is design for accomplishing the [Insight Data Challenge](https://gi
 
 # How to Run
 
-You can exucute it through **run.sh**.
+You can exucute it through **run.sh**:
 ```
 $ run.sh
 ```
-
+Or, alternatively, 
 # 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDAwNTQzODAsLTE0OTA5ODM1NzEsMT
-IwMTgxOTI4LDU4NDAwNjEzOCwtMTU1OTMyMTc1NywtMTc0MzQ2
-NDQ2OV19
+eyJoaXN0b3J5IjpbNDU0NjgzMDMsLTEyNDAwNTQzODAsLTE0OT
+A5ODM1NzEsMTIwMTgxOTI4LDU4NDAwNjEzOCwtMTU1OTMyMTc1
+NywtMTc0MzQ2NDQ2OV19
 -->
