@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 public class H1bDataManipulation {
-	private final static String KEEP_COLUMN = "STATUS";
+	private final static String KEEP_COLUMN = "CASE_STATUS";
 	private final static String KEEP_KEY = "CERTIFIED";
 	
 	/**
@@ -30,8 +30,8 @@ public class H1bDataManipulation {
 		// occupations
 		String outputFile = "./output/top_10_occupations.txt";
 		String outputHeader = "TOP_OCCUPATIONS,NUMBER_CERTIFIED_APPLICATIONS,PERCENTAGE";
-		String columnCount = "LCA_CASE_SOC_CODE";
-		String columnName = "LCA_CASE_SOC_NAME";
+		String columnCount = "SOC_CODE";
+		String columnName = "SOC_NAME";
 
 		HashMap<String, OutputItem> counted = doCount(dataTable, columnCount, columnName);
 		
@@ -41,7 +41,7 @@ public class H1bDataManipulation {
 		// states
 		outputFile = "./output/top_10_states.txt";
 		outputHeader = "TOP_STATES,NUMBER_CERTIFIED_APPLICATIONS,PERCENTAGE";
-		columnCount = columnName = "LCA_CASE_EMPLOYER_STATE";
+		columnCount = columnName = "EMPLOYER_STATE";
 
 		counted = doCount(dataTable, columnCount, columnName);
 		
