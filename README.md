@@ -18,11 +18,11 @@ The program does three jobs:
 
  1. Read and parse a `.csv` file. As I am not allowed to use canned solutions (e.g., [OpenCSV](http://opencsv.sourceforge.net)),  I write my own CSV reader and writer.
  2. Count the number of entries based on a given counting field. 
- 3. Sort the number of entries and write the largest ten 
+ 3. Sort the number of entries and write the largest ten into a separate `.csv` file.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1OTcwMzA4LDMyMjE4MDg4LC04Mzg0MT
-g0MzEsNDU0NjgzMDMsLTEyNDAwNTQzODAsLTE0OTA5ODM1NzEs
-MTIwMTgxOTI4LDU4NDAwNjEzOCwtMTU1OTMyMTc1NywtMTc0Mz
-Q2NDQ2OV19
+eyJoaXN0b3J5IjpbLTc1NzA1ODU4MCw5MDU5NzAzMDgsMzIyMT
+gwODgsLTgzODQxODQzMSw0NTQ2ODMwMywtMTI0MDA1NDM4MCwt
+MTQ5MDk4MzU3MSwxMjAxODE5MjgsNTg0MDA2MTM4LC0xNTU5Mz
+IxNzU3LC0xNzQzNDY0NDY5XX0=
 -->
