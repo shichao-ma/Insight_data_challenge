@@ -1,6 +1,6 @@
 # Insight Data Challenge
 
-This project is design for accomplishing [Insight Data Challenge](https://github.com/InsightDataScience/h1b_statistics), in which I am given a dataset that contains some information on H1B applications and need to write a program that does some simple counting without using canned solutuions.
+This project is design for accomplishing [Insight Data Challenge](https://github.com/InsightDataScience/h1b_statistics), in which I am given a dataset that contains some information on H1B applications and need to write a program that does some data aggregation without using canned solutuions.
 
 
 # Files
@@ -142,6 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTM5NTA1NDAsLTE3NDM0NjQ0NjldfQ
-==
+eyJoaXN0b3J5IjpbLTI1MzM4MjY3MSwtMTc0MzQ2NDQ2OV19
 -->
