@@ -3,7 +3,11 @@
 This project is design for accomplishing [Insight Data Challenge](https://github.com/InsightDataScience/h1b_statistics), in which I am given a dataset that contains some information on H1B applications and need to write a program that does some data aggregation without using canned solutuions.
 
 
-# Files
+# Task Analysis
+
+The task contain three basic components:
+
+ 1. Write a usable *csv 
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -142,5 +146,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzM4MjY3MSwtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbMTQyOTYyOTkzNiwtMTc0MzQ2NDQ2OV19
 -->
