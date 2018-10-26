@@ -7,7 +7,8 @@ This project is design for accomplishing [Insight Data Challenge](https://github
 
 The task contain three basic components:
 
- 1. Write a usable *csv 
+ 1. Write a usable *.csv* reader/writer to parse a *.csv* file.
+ 2. Count 
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -146,5 +147,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTYyOTkzNiwtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbNjM2MTE0MTcsLTE3NDM0NjQ0NjldfQ==
 -->
