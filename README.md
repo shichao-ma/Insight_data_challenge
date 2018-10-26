@@ -17,11 +17,12 @@ Java 8 and up.
 The program does three jobs:
 
  1. Read and parse a `.csv` file. As I am not allowed to use canned solutions (e.g., [OpenCSV](http://opencsv.sourceforge.net)),  I write my own CSV reader and writer.
- 2. 
+ 2. Count the number of entries based on a given counting field. 
+ 3. Sort the number of entries and write the largest ten 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzQ4ODY1MywzMjIxODA4OCwtODM4ND
-E4NDMxLDQ1NDY4MzAzLC0xMjQwMDU0MzgwLC0xNDkwOTgzNTcx
-LDEyMDE4MTkyOCw1ODQwMDYxMzgsLTE1NTkzMjE3NTcsLTE3ND
-M0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbOTA1OTcwMzA4LDMyMjE4MDg4LC04Mzg0MT
+g0MzEsNDU0NjgzMDMsLTEyNDAwNTQzODAsLTE0OTA5ODM1NzEs
+MTIwMTgxOTI4LDU4NDAwNjEzOCwtMTU1OTMyMTc1NywtMTc0Mz
+Q2NDQ2OV19
 -->
