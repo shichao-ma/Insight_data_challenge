@@ -8,12 +8,12 @@ You can exucute it through **run.sh**:
 ```
 $ run.sh
 ```
-Or, alternatively, 
+It will compile the source code and do the data aggregation. Or, alternatively, you may use the executable jar file ([H1bDataManipulation.jar](https://github.com/skuimsc/Insight_data_challenge/blob/master/H1bDataManipulation.jar "H1bDataManipulation.jar")) that I provided.
 # 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0NjgzMDMsLTEyNDAwNTQzODAsLTE0OT
-A5ODM1NzEsMTIwMTgxOTI4LDU4NDAwNjEzOCwtMTU1OTMyMTc1
-NywtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbLTgzODQxODQzMSw0NTQ2ODMwMywtMTI0MD
+A1NDM4MCwtMTQ5MDk4MzU3MSwxMjAxODE5MjgsNTg0MDA2MTM4
+LC0xNTU5MzIxNzU3LC0xNzQzNDY0NDY5XX0=
 -->
